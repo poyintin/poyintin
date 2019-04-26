@@ -1,2 +1,2 @@
 I am learning git.
-Git is a free softwear.
+Git is two free softwear.
